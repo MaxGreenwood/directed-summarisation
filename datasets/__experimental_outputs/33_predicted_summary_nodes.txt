@@ -1,0 +1,49 @@
+ cause-01  reason  read-01  more  look-02  war-01  country  name  reject-01  claim-01  government-organization  govern-01  instigate-01  person  name  group  political-movement  name  revolutionary-04  left-19  carry-out-03  bomb-01  spectacular  surprise-01  quick-02  vehement  have-degree-91  dangerous  sudden
+ have-rel-role-91  they  friend  conservative  person  that  get-back-10  person  name  attempt-01  do-02  thing  know-01  you  want-01  cause-01  accomplish-01  little  so  day  this  government-organization  name  and  promise-01  that  break-01  start-01  i  have-condition-91
+ help-01  have-org-role-91  he  it  employ-01  cause  only
+ have-org-role-91  person  ordinal-entity  country  name  make-01  history  right-05  person  gay-01  already  before  become-01  nom-de-scaune  speak-01  inaugurate-01  temporal-quantity  week  president
+ need-01  person  direct-01
+ think-01  you  again
+ have-org-role-91  this  activity-06  amr-unknown  president
+ have-org-role-91  person  some  tell-01  stay-01  flock  day  elect-01  home  headline-01  grab-01  attend-02  run-09  outlet  news  multiple  story  week  this  publication  name  cause-01  stir-03  person  ethnic-group  name  especially  quite  black-05  pastor
+ ask-01  you  question-01
+ and  likely-01  or  one  two  government-organization  name
+ wonderful-03  couple  they
+ have-org-role-91  city  name  mayor  run-02  person  plan-01  possible-01  comment-01  organization  news  rule-01  government-organization  name  law  care-03  health  recent  few  have-org-role-91  congressman  former  have-org-role-91  president  set-off-05  frenzy  speculate-01  day  recent  mean-01  cause-01  poke-01  toe  water  politics  have-degree-91  tiny  most  date-entity
+ possible-01  look-forward-03  they  and  victimize-01  vilify-01
+ have-org-role-91  person  resemble-01  someone  benefit-01  reverend
+ possible-01  have-degree-91  amr-unknown  country  name  person  arrive-01  and  begin-01  advance-01  promise-01  odds  hold-out-09  always  history  sport  reveal-01  have-degree-91  blue-collar  endeavor-01  tradition  more  that
+ change-01  that
+ force-01  articulate-01  he  have-org-role-91  president  case-03  confront-01  crisis  climate  address-03  inaugurate-01  month  last  ordinal-entity
+ contrast-01  and  articulate-02  rocker  rude-01
+ move-01  you  here
+ enable-01  paradigm  learn-01  live-01  you
+ objective
+ grave  consequence-03
+ joke-01  person  name  have-org-role-91  president  city  name  stupid  little  couple
+ event  television
+ fair-01  amr-unknown
+ upshot-00  amr-unknown
+ clarify-10  person  have-org-role-91  political-party  name  thing  focus-01  week  this  slogan  convention  country  ordinal-entity
+ complicate-01  research-01  biology
+ high-02  standard  person  have-rel-role-91  we  parent  and  way  strict  domineer-01  roar-02  cub  tiger  some  time  approve-01  flexible
+ or  make-01  promise-01  bold-02
+ sympathize-01  i  person  political-party  name  state  other  vote-01
+ think-01  person  and  look-01  back  appreciate-02  say-01  thank-01  person  name  speak-01  impromptu  percentage-entity  convention  political-party  name  play-08  theme  this  right  stir-02  say-01  and  head-off-03  person  that  date-entity  lose-02  free-04  keep-04  world  destroy-01  nucleus  after  temporal-quantity  year  read-01  letter  put-01  capsule  time  temporal-quantity  year
+ include-91  officer  police  accuse-01  arrest-01  and  do-02  system  judiciary  role  come-01  by  be-located-at-91  woman  claim-01  say-01  rape-01  car  person  have-rel-role-91  fiancee
+ list-01  company  name  technology  release-01  thing  recent  rate-entity-91  temporal-quantity  year  try-01  predict-01  and  trend  emerge-02  technology  transform-01  life  we  after  now  temporal-quantity  year
+ do-02  person  have-org-role-91  president  opine-01  empathy-01  everything  thread  common  and  bolster-01  friend  strengthen-01  ally-01  send-01  picture-01  and  envision-01  priority  region  clear-06  everyone  world-region  name  and  country  name  person  cheer-01  country-region  name
+ thing  name  that
+ regret-01  publication  name  err-01
+ lose-02  person  senior  victimize-01  average  monetary-quantity  dollar  abuse-01  financial  publication  name
+ and  check-01
+ have-manner-91  that  highlight-01  stupid  bigot
+ real-04  amr-unknown
+ right-06  he
+ define-01  equal-01  income  thing
+ and  possible-01  possible-01
+ and  more
+ read-01  you  recommend-01  fear-01  country  name  have-org-role-91  person  name  claim-01  contrast-01  possible-01  run-02  terrorist  possible-01  hide-01  remind-01  follow-01  operate-01  weekend  secretary  foreign  military  activity-06  continent  name  increase-01  wave-04  violence  cause-01  amr-unknown  analyze-01  criminal-organization  name  amr-unknown  more
+ violent  person  few
+ doubt-01  more  many
+ do-02  he  amr-unknown

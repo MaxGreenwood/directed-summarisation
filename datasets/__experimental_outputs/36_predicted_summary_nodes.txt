@@ -1,0 +1,49 @@
+ illustrate-01  lose-02  country  name  person  at-least  tragic  cause-01  bomb-01  car  town  name  border-01  immune-02  violence  door  next  rage-02  vivid
+ do-02  person  name  thing  and  promise-01  that  break-01  start-01  i  have-condition-91  know-01  you  want-01  cause-01  accomplish-01  little  so  day  this  government-organization  name  attempt-01  get-back-10  person  conservative  have-rel-role-91  they  friend  that
+ promise-01  differ-02  time  this  around
+ have-rel-role-91  person  and  person  have-rel-role-91  mom  have-manner-91  amr-unknown  dad
+ take-01  you  no  answer-01
+ think-01  you  problem  kind  amr-unknown
+ cause-01  do-02  nothing
+ cause-01  story  week  this  publication  name  stir-03  person  especially  quite  run-09  outlet  news  multiple  headline-01  tell-01  stay-01  day  elect-01
+ become-01  you  engage-01
+ handcuff-01  campaign-01  journalist  and  witch  rally-01  sanity  political-movement  name  include-01  season  campaign-01  epic  history  end-01  mark-01  elect-01  date-entity  tuesday
+ have-rel-role-91  person  someone  choose-01  wise  issue-02  another  entire  partner
+ have-org-role-91  city  name  mayor  run-02  person  plan-01  possible-01  set-off-05  frenzy  speculate-01  day  recent  cause-01  poke-01  toe  water  politics  have-degree-91  tiny  most  mean-01  law  care-03  health  comment-01  organization  news  rule-01  government-organization  name  recent  few  have-org-role-91  president  have-org-role-91  congressman  former  date-entity
+ make-01  person  be-located-at-91  overdrive  week  this  event  name  image
+ have-org-role-91  person  name  or  person  have-org-role-91  government-organization  name  member  political-party  name  answer-01  and  autonomy  individual  free-04  identify-01  market  close-10  ready-02  ask-01  you  thing  mean-01  have-03  likely-01  mean-01  free-04  amr-unknown  political-movement  name
+ begin-01  and  arrive-01  person  country  name  history  sport  reveal-01  have-degree-91  blue-collar  endeavor-01  tradition  advance-01  promise-01  odds  hold-out-09  always
+ govern-01  government-organization  politics  country  name  have-org-role-91  person  name  lead-02  agree-01  date-entity  monday  do-02  that  precise  strike-01  criticize-01  surprise-01  rare-02  less-than  temporal-quantity  year  average-01
+ have-org-role-91  he  address-03  inaugurate-01  month  last  ordinal-entity  articulate-01  case-03  confront-01  crisis  climate  force-01  president
+ question-01  thing  ask-01  someone  sick-04  embarrass-01  rocker  age-01  call-01  tire-01
+ possible-01  conclude-01  one  start-01  economy  country  name  hit-02  wall  final  judge-01  headline  sole
+ bold-02  step-01  university  name  before  now  almost  temporal-quantity  year  exact
+ have-org-role-91  person  name  plan-01  grow-01  economy  concern-02  elect-01  this  know-01  we  all  use-01  measure-02  sense  common  help-01  business  small  invest-01  technology  energy  clean-04  train-01  generation  person  skill  work-01  new-01  from  middle  out  know-01  it  concern-02  topic  more  much  have-degree-91  small  sillier  know-01  and  know-01  media  have-concession-91  pretend-01  pundit  at-times  president
+ mark-01  we  after  temporal-quantity  month  country  name  die-01  person  name  month  last  after  deny-01  abort-01  likely-01  she  live-01
+ i  even
+ say-01  you  ever
+ contrast-01  okay-04  choose-01  i  cause-01  amr-unknown  choose-01  everyone  else
+ empower-01  internet  agency  help-01  planet  include-91  about  equal-01  person  more-than  online  we  and  learn-01  share-01
+ and  person  name  involve-01  church  we  heavy
+ complicate-01  research-01  biology
+ attend-01  i  homecoming
+ on-hand-15  he  profile-01  person  include-91  person  play-01  magazine  name
+ sympathize-01  person  political-party  name  state  other  vote-01  turn-on-13  and  pain-01
+ record-01  tape-02  speak-01  person  name  campaign-01  person  donate-01  release-01  highlight-01  risk-01  political-party  name  become-01  party  mean-04  secret
+ include-91  person  woman  young  be-located-at-91  car  person  have-rel-role-91  fiancee  claim-01  say-01  arrest-01  preposterous  and  accuse-01  person  have-org-role-91  judge-01  subsequent  transform-01  victim  person  offend-01  effective-04  shock-01  public  incident  rape-01  and  keep-01  person  guard-01  attempt-01  extort-01  money  person  have-rel-role-91  after  officer  police  come-01  by
+ list-01  company  name  technology  release-01  thing  recent  rate-entity-91  temporal-quantity  year  try-01  predict-01  and  trend  emerge-02  technology  transform-01  life  we  after  now  temporal-quantity  year
+ store-01  thing  put-01  flag  country  name  and  back  and  bring-down-03  after  slam-02  sandstorm  sudden  part  last  visit-01  person  have-org-role-91  president
+ come-across-21  i  picture-01  city-district  name  holiday  research-01  history  family  prepare-01  book  name  person  name  have-rel-role-91  grandmother  occasional
+ sport-01  man  heavy-set  cover-02  tattoo  full-09  field  picture-01  you  head  shave-01
+ have-quant-91  pie  eat-01  geeer  greedy  much  so  leave-02  population  have-degree-91  old  more  cast-02  war-01  intergenerational  fire-04  elect-01  come-01  seem-01  crumb  only  generation  have-degree-91  young  more
+ solid-02  play-to-06  person  name  thing  strong-02  and  resist-01  weak-02  debate-01  have-degree-91  bad-02  most  showcase-01  debate-01  date-entity  night  wednesday
+ erupt-01  battle-01  future  speak-01  free-04  new-01  stage  globe
+ get-01  she  job  truth-value  know-01  i
+ tend-02  public  see-01  suicide  something  affect-01  and  adolescent  person  life  after  adolescence  typical-02  think-01
+ contrast-01  call-01  person  name  have-org-role-91  president  it  issue-02  time  we  define-01  state  name  date-entity  utter-01  phrase-01  equal-01  income  ever
+ probable  believe-01  person  country  name  most  threaten-01  terrorism  security  nation  we  have-degree-91  big  most  still
+ and  cause-01  amr-unknown  have-polarity-91
+ increase-01  activity-06  military  country  name  operation  remind-01  and  difficult  technical  operation  such  need-01  intelligence  accurate  so  continent  name  operate-01  weekend  remind-01  claim-01  person  name  have-org-role-91  secretary  foreign  contrast-01  possible-01  run-02  terrorist  possible-01  hide-01  follow-01
+ have-org-role-91  psychologist  all  community  member
+ know-02  i  and  multiple  temporal-quantity  year
+ say-01  hello  amr-unknown

@@ -1,0 +1,49 @@
+ illustrate-01  lose-02  country  name  person  at-least  tragic  cause-01  bomb-01  car  town  name  border-01  immune-02  violence  door  next  rage-02  vivid
+ true-01
+ go-03  person  number  increase-01  product  name
+ have-org-role-91  person  ordinal-entity  country  name  make-01  history  right-05  person  gay-01  already  before  become-01  nom-de-scaune  speak-01  inaugurate-01  temporal-quantity  week  story  another  president
+ have-rel-role-91  person  die-01  remind-01  also  i  have-rel-role-91  person  name  have-org-role-91  research-institute  name  school  name  elementary  shoot-02  tragic  learn-01  i  and  weep-01  resemble-01  person  country  name  other  many  mourn-01  daughter
+ hear-01  we  lot  and  war-01  class  code  tax-01  before  temporal-quantity  year
+ see-01  i  you  after  now  temporal-quantity  year
+ course-91  journalism  that
+ be-it-06  that
+ include-01  and  witch  rally-01  sanity  political-movement  name  journalist  handcuff-01  campaign-01  season  campaign-01  epic  history  end-01  mark-01  elect-01  date-entity  tuesday
+ wonderful-03  couple  they
+ speculate-01  possible-01  plan-01  person  set-off-05  frenzy  day  recent  mean-01  comment-01  organization  news  rule-01  government-organization  name  law  care-03  health  recent  few  cause-01  poke-01  toe  water  politics  have-degree-91  tiny  most  have-org-role-91  congressman  former  have-org-role-91  president  run-02  mayor  have-org-role-91  city  name  date-entity
+ she  i  love-01  woman
+ mean-01  free-04  autonomy  individual  and  identify-01  market  close-10  thing  ask-01  you  or  person  name  have-org-role-91  political-movement  name  mean-01  free-04  amr-unknown  person  have-org-role-91  government-organization  name  member  political-party  name  likely-01  have-03  answer-01  ready-02
+ begin-01  and  arrive-01  person  country  name  history  reveal-01  have-degree-91  sport  blue-collar  endeavor-01  tradition  advance-01  promise-01  odds  hold-out-09  always
+ have-org-role-91  person  name  coopt-01  person  main  oppose-01  price-01  premiership  deputy  criticize-01  person  legitimize-01  government-organization  govern-01  short-timer  preempt-01  strike-01  and  press  cynical  buy-01  politics  temporal-quantity  another  month  free-04  challenge-01  and  and  after  now  period  turbulence  broaden-01  go-01  like-02  person  continent  name  yesterday  lead-02  agree-01  date-entity  monday  do-02  that  precise  country  name  government-organization  last  hope-01  administrate-01  keep-02  politics  government-organization  less-than  temporal-quantity  year  average-01  govern-01  surprise-01  rare-02
+ have-org-role-91  he  articulate-01  case-03  confront-01  crisis  climate  address-03  inaugurate-01  month  last  ordinal-entity  force-01  president
+ sick-04  embarrass-01  rocker  call-01  age-01  someone  ask-01  thing  question-01  tire-01
+ possible-01  conclude-01  one  start-01  economy  country  name  hit-02  wall  final  judge-01  headline  sole
+ bold-02  step-01  university  name  before  now  almost  temporal-quantity  year  exact
+ come-01  envision-01  amr-unknown
+ die-01  person  name  month  last  after  deny-01  abort-01  country  name  mark-01  we  after  temporal-quantity  month  likely-01  she  live-01
+ write-01  person  name  have-org-role-91  president  hate-01  city  name  use-01  symbolize-01  mean-01  thing  know-01  everyone  know-01  i  real-04  joke-01  stupid  little  couple
+ event  television
+ have-org-role-91  i  activist  act-01  hopeful-03  have-org-role-91  send-01  president  date-entity  possible-01  duel-01  here  likely-01  state  name  governor  former
+ include-91  planet  help-01  agency  internet  empower-01  we  and  learn-01  share-01  about  equal-01  person  more-than  online
+ refurbish-01  park
+ complicate-01  research-01  biology
+ have-rel-role-91  person  way  strict  and  standard  high-02  flexible  roar-02  cub  tiger  some  time  approve-01  domineer-01  we  parent
+ like-01  you  go-05  ask-01  it  he  possible-01  amr-unknown  cat  amr-unknown
+ bother-01  you  even
+ law  being  human  they
+ include-91  person  woman  young  be-located-at-91  car  person  have-rel-role-91  fiancee  arrest-01  preposterous  and  accuse-01  person  have-org-role-91  judge-01  subsequent  transform-01  victim  person  offend-01  effective-04  shock-01  public  incident  claim-01  say-01  rape-01  and  keep-01  person  guard-01  attempt-01  extort-01  money  person  have-rel-role-91  after  officer  police  come-01  by
+ emerge-02  trend  and  technology  transform-01  life  we  after  now  temporal-quantity  year  predict-01  company  name  technology  try-01  list-01  release-01  thing  recent  rate-entity-91  temporal-quantity  year
+ perform-01  it  masterly
+ thing  name  that
+ come-03  music  flavor  many
+ cast-02  population  have-degree-91  old  more  leave-02  crumb  only  generation  have-degree-91  young  more  geeer  greedy  eat-01  pie  have-quant-91  much  so  war-01  intergenerational  fire-04  elect-01  come-01  seem-01
+ date-entity  wednesday  amr-unknown  night
+ free-04  speak-01  future  battle-01  new-01  erupt-01  stage  globe
+ serious-01  amr-unknown
+ tend-02  public  see-01  suicide  something  affect-01  and  adolescent  person  life  after  adolescence  typical-02  think-01
+ have-org-role-91  person  name  call-01  it  issue-02  time  we  define-01  state  name  date-entity  contrast-01  utter-01  phrase-01  equal-01  income  ever  president
+ and  possible-01  possible-01
+ event  that
+ increase-01  activity-06  military  country  name  intelligence  operation  remind-01  and  difficult  technical  operation  such  need-01  accurate  so  continent  name  operate-01  weekend  remind-01  claim-01  person  name  have-org-role-91  secretary  foreign  contrast-01  possible-01  run-02  terrorist  possible-01  hide-01  follow-01
+ person  country  name  person  all  affect-01  tragedy  tragedy  week  this  facility  name  city  name  deep-02  approximately  that
+ hear-01  all  news  lose-02  and  person  name  have-rel-role-91  son  research-01  storm  life  study-01  thunderstorm  supercell  tornado  strike-01  area  city  name  date-entity  friday  appall-01  by  now
+ say-01  hello  amr-unknown  do-02  he
