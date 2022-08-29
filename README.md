@@ -10,6 +10,7 @@ Original code is found in the `.ipynb` files and `u-sas` modules which are suppl
 * `argument_classification`: https://github.com/UKPLab/acl2019-BERT-argument-classification-and-clustering
 * `e2e-coref`: https://github.com/kentonl/e2e-coref
 * `stanford-corenlp-full-2018-10-05`: https://stanfordnlp.github.io/CoreNLP/
-* `u-sas`: https://github.com/vgupta123/Unsupervised-SAS (edited for the purpose of directed summarisation)
+
+The unsupervised subgraph extraction algorithm in the `usas` modules is an adaptation of the following code from Dohare and Gupta: https://github.com/vgupta123/Unsupervised-SAS.
 
 Please contact mgg21@ic.ac.uk for any questions relating to this software archive.
