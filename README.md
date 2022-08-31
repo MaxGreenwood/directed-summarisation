@@ -8,10 +8,11 @@ Original code is found in the `.ipynb` files and `u-sas` modules which are suppl
 
 * `amrlib`: https://github.com/bjascob/amrlib
 * `argument_classification`: https://github.com/UKPLab/acl2019-BERT-argument-classification-and-clustering
-* `e2e-coref`: https://github.com/kentonl/e2e-coref
-* `fast_align': https://github.com/clab/fast_align
+* `fast_align`: https://github.com/clab/fast_align
 * `stanford-corenlp-full-2018-10-05`: https://stanfordnlp.github.io/CoreNLP/
 
 The unsupervised subgraph extraction algorithm in the `u-sas` folder is an adaptation of the following code from Dohare and Gupta: https://github.com/vgupta123/Unsupervised-SAS.
+
+The `e2e-coref` package is functionally the same as the original but has been edited to run smoothly in the Colab environment. The original package can be found at: https://github.com/kentonl/e2e-coref
 
 Please contact mgg21@ic.ac.uk for any questions relating to this software archive.
