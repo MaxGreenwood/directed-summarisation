@@ -1,0 +1,7 @@
+tensorflow-gpu==1.13.1
+tensorflow-hub==0.2.0
+pyhocon==0.3.50
+nltk
+sklearn
+scipy
+h5py
