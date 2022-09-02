@@ -15,4 +15,6 @@ The unsupervised subgraph extraction algorithm in the `u-sas` folder is an adapt
 
 The `e2e-coref` package is functionally the same as the original but has been edited to run smoothly in the Colab environment. The original package can be found at: https://github.com/kentonl/e2e-coref
 
+The `graph_visualisation` package (not used in final pipeline) is adapted from: https://github.com/xdqkid/AMR-Visualization
+
 Please contact mgg21@ic.ac.uk for any questions relating to this software archive.
